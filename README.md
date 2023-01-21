@@ -1,2 +1,2 @@
-# Object_Tracking_Yolov5_and_Strongsort
+# Object Tracking Yolov5 and Strongsort
  Tugas magang
