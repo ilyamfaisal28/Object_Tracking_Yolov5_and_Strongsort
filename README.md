@@ -6,4 +6,6 @@ Pada tugas ini saya mempelajari dan menerapkan object tracking dengan arsitektur
 
 ---
 
+https://user-images.githubusercontent.com/89628535/213868220-09f66635-4303-458c-801d-cc268404421d.mp4
+
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
