@@ -21,4 +21,10 @@ Sehingga menjadi seperti ini:<br>
 Sebelum pembuatan grafik, pertama harus mendapatkan data timestamp beserta kelas dan id objek dari setiap objek atau mobil yang telah terhitung. Lalu dibuat dalam bentuk file csv.
 Kode untuk mendapatkan data-data tersebut beserta pembuatan file csv terdapat pada [track.py](https://github.com/ilyamfaisal28/Object_Tracking_Yolov5_and_Strongsort/blob/main/track.py).
 <br>
+Hasil file csv dapat dilihat di [Exported_Data.csv](https://github.com/ilyamfaisal28/Object_Tracking_Yolov5_and_Strongsort/blob/main/Exported_Data.csv):<br>
+<img width="239" alt="Picture1" src="https://user-images.githubusercontent.com/89628535/213908718-ee434e93-c197-41cd-ad63-9c70b9429e20.png">
+
 Setelah mendapatkan file csv, lanjut membuat grafik berdasarkan file csv tersebut. Untuk kodenya dapat dilihat di [(Magang)_Pembuatan_Grafik_Timestamp_Object_Counting.ipynb](https://github.com/ilyamfaisal28/Object_Tracking_Yolov5_and_Strongsort/blob/main/(Magang)_Pembuatan_Grafik_Timestamp_Object_Counting.ipynb)
+<br>
+Berikut adalah hasil grafik berdasarkan file csv sebelumnya:<br>
+![download](https://user-images.githubusercontent.com/89628535/213908628-a6df0947-3f85-4871-9f0f-ad315fcb7fbc.png)
